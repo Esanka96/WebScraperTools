@@ -7,11 +7,8 @@ import re
 from datetime import datetime
 import pandas as pd
 
-scraper = cloudscraper.create_scraper()
-
 def getSoup(url):
     response = requests.get(url,headers=headers)
-    #response = scraper.get(url, headers=headers)
     soup= BeautifulSoup(response.content, 'html.parser')
     return soup
 
