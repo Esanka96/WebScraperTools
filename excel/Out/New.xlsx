@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="da" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><meta name="Generator" content="Drupal 11 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<noscript><meta http-equiv="Refresh" content="0; URL=/batch?id=38985&amp;op=do_nojs" />
+</noscript><link rel="icon" href="/sites/edlists.org/themes/octo/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Exporting data... | Endocrine Disruptor List</title>
+    <link rel="stylesheet" media="all" href="/sites/edlists.org/files/css/css_T_0QvIc4Tqn1XdAaIPzjZtPkgg4UrH27qbH-q7_wU8A.css?delta=0&amp;language=da&amp;theme=octo&amp;include=eJw9iNEKgDAIAH9obJ8Uoga2TcMZrL-voHo57g4rk4T5AojmJKblt7y6abBSugcX8mOHlmGDmXhGE63fezMZhpUHaZwjuBegLnoBv80nEQ" />
+<link rel="stylesheet" media="all" href="/sites/edlists.org/files/css/css_7LiheudgZmjdMiT1NufUoQ2Zs3DFlBiZla2fEhAnTlM.css?delta=1&amp;language=da&amp;theme=octo&amp;include=eJw9iNEKgDAIAH9obJ8Uoga2TcMZrL-voHo57g4rk4T5AojmJKblt7y6abBSugcX8mOHlmGDmXhGE63fezMZhpUHaZwjuBegLnoBv80nEQ" />
+<link rel="stylesheet" media="print" href="/sites/edlists.org/files/css/css_Seu0BCjrrlo2fFvRQ6VBC99OFOKK4OhVtmik_KnyFoI.css?delta=2&amp;language=da&amp;theme=octo&amp;include=eJw9iNEKgDAIAH9obJ8Uoga2TcMZrL-voHo57g4rk4T5AojmJKblt7y6abBSugcX8mOHlmGDmXhGE63fezMZhpUHaZwjuBegLnoBv80nEQ" />
+
+    
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/sites/edlists.org/themes/octo/img/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/sites/edlists.org/themes/octo/img/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/sites/edlists.org/themes/octo/img/icons/favicon-16x16.png">
+    <link rel="manifest" href="/sites/edlists.org/themes/octo/img/icons/site.webmanifest">
+    <link rel="mask-icon" href="/sites/edlists.org/themes/octo/img/icons/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#b91d47">
+    <meta name="msapplication-TileImage" content="/sites/edlists.org/themes/octo/img/icons/mstile-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+  </head>
+  <body class="path-batch">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Gå til hovedindhold
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+    
+    <header class="region region-header">
+    	<div class="region-inner">
+            
+  <h1>Exporting data...</h1>
+
+
+            <a id="search-field-toggle" href="#">Search</a>
+        </div>
+    </header>
+
+
+
+
+
+<main>
+
+    
+
+
+    <div class="region region-content">
+        <a id="main-content" tabindex="-1"></a>
+        <div  class="region-inner">
+            <div class="progress" data-drupal-progress>
+    <div class="progress__track"><div class="progress__bar" style="width: 0%"></div></div>
+  <div class="progress__percentage">0%</div>
+  <div class="progress__description">Initialiserer.<br />&nbsp;</div>
+</div>
+
+        </div>
+    </div>
+
+
+</main>
+
+
+
+
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"batch","currentPathIsAdmin":true,"isFront":false,"currentLanguage":"da","currentQuery":{"id":"38985","op":"start"}},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJw9i0EKgDAMBD9U7JMkJhFL20TSCPp7K1Uvy-zAYGZKrjYDohollfjTtJqKs1DogiPZsUOZFnDcAp9ekuRPvjcousbKcgx6ZlBjsJ61qznXCFST3KQfL7o","theme":"octo","theme_token":null},"ajaxTrustedUrl":[],"data":{"extlink":{"extTarget":true,"extTargetAppendNewWindowLabel":"(opens in a new window)","extTargetNoOverride":false,"extNofollow":false,"extTitleNoOverride":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":false,"extExclude":"","extInclude":"files\/media\/(\\S\\\/)*((.)+\\.pdf)","extCssExclude":"","extCssInclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","extHideIcons":false,"mailtoClass":"0","telClass":"","mailtoLabel":"(link sends email)","telLabel":"(link is a phone number)","extUseFontAwesome":false,"extIconPlacement":"append","extPreventOrphan":false,"extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","extAdditionalLinkClasses":"","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","whitelistedDomains":null,"extExcludeNoreferrer":""}},"ckeditorAccordion":{"accordionStyle":{"collapseAll":1,"keepRowsOpen":null,"animateAccordionOpenAndClose":1,"openTabsWithHash":1,"allowHtmlInTitles":0}},"batch":{"errorMessage":"Der er opst\u00e5et en fejl.\u003Cbr \/\u003EContinue to \u003Ca href=\u0022\/batch?id=38985\u0026amp;op=finished\u0022\u003Ethe error page\u003C\/a\u003E","initMessage":"Initialiserer.\u003Cbr\/\u003E\u0026nbsp;","uri":"\/batch?id=38985\u0026op=do_nojs"},"user":{"uid":0,"permissionsHash":"bfe528baad0c289b9582590cac3225ecf87a8f88ac1cf1afc0754b39e7fd2048"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=4.0.0-beta.2"></script>
+<script src="/sites/edlists.org/files/js/js_T1WxOAYNT34uK57t6JalZiwjPKlIKPFA9yiCMOSzpFE.js?scope=footer&amp;delta=1&amp;language=da&amp;theme=octo&amp;include=eJw9yNEKgCAMheEXEn2kWNtC0TZZE3r8Cqubw3d-rEzF1RZAVKOikn7FzVSchcIdOJGNDi2u4JgDn96K1C--Nyi6pp1lTD0zdTAY5gtWZiqx"></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?t16rwc"></script>
+<script src="/sites/edlists.org/files/js/js_bvChKcQlSHpfC5Tvy05XYhIGj3KwI8WIjQR3DcGWZKg.js?scope=footer&amp;delta=3&amp;language=da&amp;theme=octo&amp;include=eJw9yNEKgCAMheEXEn2kWNtC0TZZE3r8Cqubw3d-rEzF1RZAVKOikn7FzVSchcIdOJGNDi2u4JgDn96K1C--Nyi6pp1lTD0zdTAY5gtWZiqx"></script>
+<script src="/core/misc/batch.js?1755688661"></script>
+<script src="/sites/edlists.org/files/js/js_jkNUpGwWI0f2cPJQPdUMHkXety94u4qcFrrWYYrZEqc.js?scope=footer&amp;delta=5&amp;language=da&amp;theme=octo&amp;include=eJw9yNEKgCAMheEXEn2kWNtC0TZZE3r8Cqubw3d-rEzF1RZAVKOikn7FzVSchcIdOJGNDi2u4JgDn96K1C--Nyi6pp1lTD0zdTAY5gtWZiqx"></script>
+
+  <script type="text/javascript">
+    (function() {
+    var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+    sz.src = '//ssl.siteimprove.com/js/siteanalyze_133886.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+  </script>
+  </body>
+</html>
