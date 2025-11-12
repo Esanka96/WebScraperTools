@@ -1,0 +1,9 @@
+with pdfplumber.open("sample.pdf") as pdf:
+    for page_index, page in enumerate(pdf.pages):  # Iterate through all pages
+        all_tables = page.extract_tables()
+
+        for table_index, table in enumerate(all_tables):
+            print(f"\n--- Page {page_index + 1}, Table {table_index + 1} ---")
+            for row in table:
+                print(row)
+                print(len(row))

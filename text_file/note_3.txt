@@ -1,0 +1,88 @@
+payload = {
+    "versionInfo": {
+        "moduleVersion": "DEIUVWYnhV+8XFvFHVYxCQ",
+        "apiVersion": "6Bnghy+TVcnOZSN2FpzXbQ"
+    },
+    "viewName": "Pesquisas.PesquisaResultado",
+    "screenData": {
+        "variables": {
+            "FiltrosDePesquisa": {
+                "tipoConteudo": {
+                    "List": ["AtosSerie1", "AtosSerie2"]
+                },
+                "serie": {
+                    "List": ["I", "II"]
+                },
+                "numero": "",
+                "ano": "0",
+                "suplemento": "0",
+                "dataPublicacao": "",
+                "parte": "",
+                "apendice": "",
+                "fasciculo": "",
+                "tipo": {
+                    "List": ["\"Lei\"", "\"Decreto\"", "\"Decreto-Lei\""]
+                },
+                "emissor": {
+                    "List": [],
+                    "EmptyListItem": ""
+                },
+                "texto": "",
+                "sumario": "\"'política de ambiente\"",
+                "entidadeProponente": {
+                    "List": [],
+                    "EmptyListItem": ""
+                },
+                "numeroDR": "",
+                "paginaInicial": "0",
+                "paginaFinal": "0",
+                "dataAssinatura": "",
+                "dataDistribuicao": "",
+                "entidadePrincipal": {
+                    "List": [],
+                    "EmptyListItem": ""
+                },
+                "entidadeEmitente": {
+                    "List": [],
+                    "EmptyListItem": ""
+                },
+                "docType": "",
+                "proferido": "",
+                "processo": "",
+                "assunto": "",
+                "recorrente": "",
+                "recorrido": "",
+                "relator": "",
+                "empresa": "",
+                "concelho": "",
+                "nif": "",
+                "anuncio": "",
+                "numeroDoc": "",
+                "semestre": "",
+                "IsLegConsolidadaSelected": "false",
+                "IsFromData": "false",
+                "DescritorList": {
+                    "List": [],
+                    "EmptyListItem": ""
+                }
+            },
+            "ResultadosPorPaginaId": 2,
+            "NumeroDeResultadosPorPagina": 25,
+            "StartIndex": 0,
+            "OcultarRevogados": "false",
+            "DestaqueExcertos": "false",
+            "TipoOrdenacaoId": 9,
+            "Pesquisa": {
+                "List": [],
+                "EmptyListItem": ""
+            },
+            "Texto": "",
+            "ResultadosElastic": {
+                "Took": "0",
+                "Timed_out": "false",
+
+            },
+        }
+    },
+    "clientVariables": {}
+}

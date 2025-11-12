@@ -1,0 +1,1597 @@
+{
+    "versionInfo": {
+        "moduleVersion": "DEIUVWYnhV+8XFvFHVYxCQ",
+        "apiVersion": "6Bnghy+TVcnOZSN2FpzXbQ"
+    },
+    "viewName": "Pesquisas.PesquisaResultado",
+    "screenData": {
+        "variables": {
+            "FiltrosDePesquisa": {
+                "tipoConteudo": {
+                    "List": ["AtosSerie1", "AtosSerie2"]
+                },
+                "serie": {
+                    "List": ["I", "II"]
+                },
+                "numero": "",
+                "ano": "0",
+                "suplemento": "0",
+                "dataPublicacao": "",
+                "dataPublicacaoDe": "1900-01-01",
+                "dataPublicacaoAte": "1900-01-01",
+                "parte": "",
+                "apendice": "",
+                "fasciculo": "",
+                "tipo": {
+                    "List": ["\"Lei\"", "\"Decreto\"", "\"Decreto-Lei\""]
+                },
+                "emissor": {
+                    "List": [],
+                    "EmptyListItem": ""
+                },
+                "texto": "",
+                "sumario": "\"'Bases do Clima\"",
+                "entidadeProponente": {
+                    "List": [],
+                    "EmptyListItem": ""
+                },
+                "numeroDR": "",
+                "paginaInicial": "0",
+                "paginaFinal": "0",
+                "dataAssinatura": "",
+                "dataDistribuicao": "",
+                "entidadePrincipal": {
+                    "List": [],
+                    "EmptyListItem": ""
+                },
+                "entidadeEmitente": {
+                    "List": [],
+                    "EmptyListItem": ""
+                },
+                "docType": "",
+                "proferido": "",
+                "processo": "",
+                "assunto": "",
+                "recorrente": "",
+                "recorrido": "",
+                "relator": "",
+                "empresa": "",
+                "concelho": "",
+                "nif": "",
+                "anuncio": "",
+                "numeroDoc": "",
+                "DataAssinaturaDe": "1900-01-01",
+                "DataAssinaturaAte": "1900-01-01",
+                "DataDistribuicaoDe": "1900-01-01",
+                "DataDistribuicaoAte": "1900-01-01",
+                "semestre": "",
+                "IsLegConsolidadaSelected": false,
+                "IsFromData": false,
+                "DescritorList": {
+                    "List": [],
+                    "EmptyListItem": ""
+                }
+            },
+            "ResultadosPorPaginaId": 2,
+            "NumeroDeResultadosPorPagina": 25,
+            "StartIndex": 0,
+            "OcultarRevogados": false,
+            "DestaqueExcertos": false,
+            "TipoOrdenacaoId": 8,
+            "Pesquisa": {
+                "List": [""]
+            },
+            "Texto": "",
+            "ResultadosElastic": {
+                "Took": "0",
+                "Timed_out": false,
+                "shards": {
+                    "Total": "0",
+                    "Successful": "0",
+                    "Skipped": "0",
+                    "Failed": "0"
+                },
+                "Hits": {
+                    "Total": {
+                        "Value": "0",
+                        "Relation": ""
+                    },
+                    "Max_score": "0",
+                    "Hits": {
+                        "List": [],
+                        "EmptyListItem": {
+                            "index": "",
+                            "type": "",
+                            "id": "",
+                            "score": "0",
+                            "source": {
+                                "NumeroInt": "0",
+                                "DataPublicacaoAJ": "1900-01-01",
+                                "DocType": "",
+                                "Visibility": "",
+                                "Conteudo": false,
+                                "Vigencia": "",
+                                "Title_bst_10k": "",
+                                "TextoEntradaVigor": "",
+                                "Type": "",
+                                "TipoAssociacao": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "NumeroFonte": "",
+                                "Descritor": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "Emissor": "",
+                                "Ano": "",
+                                "Paginas": "",
+                                "TipoAJ": "",
+                                "SerieNR": "",
+                                "Suplemento": "",
+                                "OrdemDR": "",
+                                "Texto": "",
+                                "ConteudoId": "0",
+                                "EntidadePrincipal": "",
+                                "DataPublicacao": "1900-01-01",
+                                "EntidadeEmitente": "",
+                                "DataDistribuicao": "1900-01-01",
+                                "PaginaFinal": "0",
+                                "Numero": "",
+                                "FileId": "0",
+                                "AjPublica": false,
+                                "TipoConteudo": "",
+                                "Tratamento": false,
+                                "EntidadeResponsavel": "",
+                                "NumeroAJ": "",
+                                "DbId": "0",
+                                "Nota": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "Thesaurus_descritor_eq": "",
+                                "DataAssinatura": "1900-01-01",
+                                "Thesaurus_descritor_np": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "WhenSearchable": "",
+                                "Id": "",
+                                "Fragmentado": false,
+                                "Title": "",
+                                "Ordem": "0",
+                                "ConteudoTitle": "",
+                                "ClassName": "",
+                                "NumeroDR": "",
+                                "DataEntradaVigor": "1900-01-01T00:00:00",
+                                "PaginaInicial": "0",
+                                "Acronimo": "",
+                                "TextoAssociacao": "",
+                                "Serie": "",
+                                "CreationDate": "1900-01-01T00:00:00",
+                                "Descritor_texto": "",
+                                "ResumoAJ": "",
+                                "Sumario": "",
+                                "Regional": false,
+                                "Views": "0",
+                                "Fonte": "",
+                                "Tipo": "",
+                                "ModificationDate": "1900-01-01T00:00:00",
+                                "Thesaurus_descritor": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "EmissorEN": "",
+                                "Parte": "",
+                                "TipoEN": "",
+                                "TextoNota": "",
+                                "resumo": "",
+                                "resumoEN": "",
+                                "Designacao": "",
+                                "ConsolidacaoType": "",
+                                "DiplomaBase": "",
+                                "concelho": "",
+                                "empresa": "",
+                                "assunto": "",
+                                "consolidacaoEstado": "",
+                                "IsSelected": false,
+                                "DiplomaFragmentadoId": "",
+                                "consolidacaoVisibility": "",
+                                "CPAlteracao": false,
+                                "EntidadeProponente": ""
+                            },
+                            "Highlight": {
+                                "Title": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "Sumario": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "Designacao": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "Texto": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                }
+                            }
+                        }
+                    }
+                },
+                "aggregations": {
+                    "SerieAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "TipoAtoAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "TipoConteudoAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "EntidadeEmitenteAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "EntidadeProponenteAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "EntidadePrincipalAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "TipoConteudoAggOutros": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "EmissorAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "ParteAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "CalendarioAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "JurisprudenciaAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "JurisAggs": {
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "VigenciaAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "ConsolidacaoEstadoAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "ConsolidacaoVisibilityAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    }
+                }
+            },
+            "ResultadosElasticParaPisco": {
+                "Took": "0",
+                "Timed_out": false,
+                "shards": {
+                    "Total": "0",
+                    "Successful": "0",
+                    "Skipped": "0",
+                    "Failed": "0"
+                },
+                "Hits": {
+                    "Total": {
+                        "Value": "0",
+                        "Relation": ""
+                    },
+                    "Max_score": "0",
+                    "Hits": {
+                        "List": [],
+                        "EmptyListItem": {
+                            "index": "",
+                            "type": "",
+                            "id": "",
+                            "score": "0",
+                            "source": {
+                                "NumeroInt": "0",
+                                "DataPublicacaoAJ": "1900-01-01",
+                                "DocType": "",
+                                "Visibility": "",
+                                "Conteudo": false,
+                                "Vigencia": "",
+                                "Title_bst_10k": "",
+                                "TextoEntradaVigor": "",
+                                "Type": "",
+                                "TipoAssociacao": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "NumeroFonte": "",
+                                "Descritor": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "Emissor": "",
+                                "Ano": "",
+                                "Paginas": "",
+                                "TipoAJ": "",
+                                "SerieNR": "",
+                                "Suplemento": "",
+                                "OrdemDR": "",
+                                "Texto": "",
+                                "ConteudoId": "0",
+                                "EntidadePrincipal": "",
+                                "DataPublicacao": "1900-01-01",
+                                "EntidadeEmitente": "",
+                                "DataDistribuicao": "1900-01-01",
+                                "PaginaFinal": "0",
+                                "Numero": "",
+                                "FileId": "0",
+                                "AjPublica": false,
+                                "TipoConteudo": "",
+                                "Tratamento": false,
+                                "EntidadeResponsavel": "",
+                                "NumeroAJ": "",
+                                "DbId": "0",
+                                "Nota": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "Thesaurus_descritor_eq": "",
+                                "DataAssinatura": "1900-01-01",
+                                "Thesaurus_descritor_np": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "WhenSearchable": "",
+                                "Id": "",
+                                "Fragmentado": false,
+                                "Title": "",
+                                "Ordem": "0",
+                                "ConteudoTitle": "",
+                                "ClassName": "",
+                                "NumeroDR": "",
+                                "DataEntradaVigor": "1900-01-01T00:00:00",
+                                "PaginaInicial": "0",
+                                "Acronimo": "",
+                                "TextoAssociacao": "",
+                                "Serie": "",
+                                "CreationDate": "1900-01-01T00:00:00",
+                                "Descritor_texto": "",
+                                "ResumoAJ": "",
+                                "Sumario": "",
+                                "Regional": false,
+                                "Views": "0",
+                                "Fonte": "",
+                                "Tipo": "",
+                                "ModificationDate": "1900-01-01T00:00:00",
+                                "Thesaurus_descritor": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "EmissorEN": "",
+                                "Parte": "",
+                                "TipoEN": "",
+                                "TextoNota": "",
+                                "resumo": "",
+                                "resumoEN": "",
+                                "Designacao": "",
+                                "ConsolidacaoType": "",
+                                "DiplomaBase": "",
+                                "concelho": "",
+                                "empresa": "",
+                                "assunto": "",
+                                "consolidacaoEstado": "",
+                                "IsSelected": false,
+                                "DiplomaFragmentadoId": "",
+                                "consolidacaoVisibility": "",
+                                "CPAlteracao": false,
+                                "EntidadeProponente": ""
+                            },
+                            "Highlight": {
+                                "Title": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "Sumario": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "Designacao": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "Texto": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                }
+                            }
+                        }
+                    }
+                },
+                "aggregations": {
+                    "SerieAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "TipoAtoAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "TipoConteudoAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "EntidadeEmitenteAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "EntidadeProponenteAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "EntidadePrincipalAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "TipoConteudoAggOutros": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "EmissorAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "ParteAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "CalendarioAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "JurisprudenciaAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "JurisAggs": {
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "VigenciaAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "ConsolidacaoEstadoAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "ConsolidacaoVisibilityAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    }
+                }
+            },
+            "Ordenacoes": {
+                "List": [],
+                "EmptyListItem": {
+                    "Field": "",
+                    "Order": ""
+                }
+            },
+            "IsTipoAtoOpen": false,
+            "IsSerieOpen": false,
+            "IsTipoConteudoOpen": false,
+            "IsEntidadeEmitenteOpen": false,
+            "IsEntidadeProponenteOpen": false,
+            "ListaFiltrosEscolhidosParaQuery": {
+                "List": [],
+                "EmptyListItem": ""
+            },
+            "CountRenderEcra": -1,
+            "Listas": {
+                "DocTypeList": {
+                    "List": [],
+                    "EmptyListItem": {
+                        "key": "",
+                        "doc_count": "0",
+                        "key_as_string": "",
+                        "isActive": false
+                    }
+                },
+                "EntidadeEmitenteList": {
+                    "List": [],
+                    "EmptyListItem": {
+                        "key": "",
+                        "doc_count": "0",
+                        "key_as_string": "",
+                        "isActive": false
+                    }
+                },
+                "EntidadeProponenteList": {
+                    "List": [],
+                    "EmptyListItem": {
+                        "key": "",
+                        "doc_count": "0",
+                        "key_as_string": "",
+                        "isActive": false
+                    }
+                },
+                "SerieList": {
+                    "List": [],
+                    "EmptyListItem": {
+                        "key": "",
+                        "doc_count": "0",
+                        "key_as_string": "",
+                        "isActive": false
+                    }
+                },
+                "TipoAtoList": {
+                    "List": [],
+                    "EmptyListItem": {
+                        "key": "",
+                        "doc_count": "0",
+                        "key_as_string": "",
+                        "isActive": false
+                    }
+                },
+                "TipoConteudoList": {
+                    "List": [],
+                    "EmptyListItem": {
+                        "key": "",
+                        "doc_count": "0",
+                        "key_as_string": "",
+                        "isActive": false
+                    }
+                }
+            },
+            "IsPesquisaGuardada": false,
+            "ListaFiltros": {
+                "List": [],
+                "EmptyListItem": {
+                    "Area": "",
+                    "Value": ""
+                }
+            },
+            "ItemSelecionado": "",
+            "MensagemResultadoGuardado": "",
+            "MensagemResultOK": false,
+            "MensagemErro": "",
+            "IsRended": false,
+            "PesquisaAvancadaFiltros": "eyJ0aXBvQ29udGV1ZG8iOlsiQXRvc1NlcmllMSIsIkF0b3NTZXJpZTIiXSwic2VyaWUiOlsiSSIsIklJIl0sInRpcG8iOlsiXCJMZWlcIiIsIlwiRGVjcmV0b1wiIiwiXCJEZWNyZXRvLUxlaVwiIl0sImVtaXNzb3IiOltdLCJzdW1hcmlvIjoiXCInQmFzZXMgZG8gQ2xpbWFcIiIsImVudGlkYWRlUHJvcG9uZW50ZSI6W10sImVudGlkYWRlUHJpbmNpcGFsIjpbXSwiZW50aWRhZGVFbWl0ZW50ZSI6W10sIkRlc2NyaXRvckxpc3QiOltdfQ==",
+            "PesquisaSimplesFiltro": "",
+            "EmissorJurisprudencia": "",
+            "PesquisaAvancadaBools": "{\"Atos1\":true,\"Atos2\":true}",
+            "ComesFromHistorico": false,
+            "PesquisaHasDataFetched": false,
+            "exportExcel": false,
+            "MaxRecordsAto": 10,
+            "exportTipo": "",
+            "exportDoc": false,
+            "exportPDF": false,
+            "FiltrosPesquisaErro": {
+                "IsActive": false,
+                "Erro": ""
+            },
+            "IsPesquisaSimples": false,
+            "Count": 0,
+            "MaxRecordsConteudo": 10,
+            "MaxRecordsEntidadeEmitente": 10,
+            "MaxRecordsEntidadeProponente": 10,
+            "DataDe": "",
+            "DataAte": "",
+            "ComRevogados": false,
+            "ComRevogadosAux": false,
+            "IsFromData": false,
+            "NoTextFrom_PA": false,
+            "IsPageTracked": false,
+            "EditPesquisaAvancada": 1,
+            "TermoPesquisaAvancadaByConteudo": "",
+            "ResultadosElastic_Empty": {
+                "Took": "0",
+                "Timed_out": false,
+                "shards": {
+                    "Total": "0",
+                    "Successful": "0",
+                    "Skipped": "0",
+                    "Failed": "0"
+                },
+                "Hits": {
+                    "Total": {
+                        "Value": "0",
+                        "Relation": ""
+                    },
+                    "Max_score": "0",
+                    "Hits": {
+                        "List": [],
+                        "EmptyListItem": {
+                            "index": "",
+                            "type": "",
+                            "id": "",
+                            "score": "0",
+                            "source": {
+                                "NumeroInt": "0",
+                                "DataPublicacaoAJ": "1900-01-01",
+                                "DocType": "",
+                                "Visibility": "",
+                                "Conteudo": false,
+                                "Vigencia": "",
+                                "Title_bst_10k": "",
+                                "TextoEntradaVigor": "",
+                                "Type": "",
+                                "TipoAssociacao": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "NumeroFonte": "",
+                                "Descritor": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "Emissor": "",
+                                "Ano": "",
+                                "Paginas": "",
+                                "TipoAJ": "",
+                                "SerieNR": "",
+                                "Suplemento": "",
+                                "OrdemDR": "",
+                                "Texto": "",
+                                "ConteudoId": "0",
+                                "EntidadePrincipal": "",
+                                "DataPublicacao": "1900-01-01",
+                                "EntidadeEmitente": "",
+                                "DataDistribuicao": "1900-01-01",
+                                "PaginaFinal": "0",
+                                "Numero": "",
+                                "FileId": "0",
+                                "AjPublica": false,
+                                "TipoConteudo": "",
+                                "Tratamento": false,
+                                "EntidadeResponsavel": "",
+                                "NumeroAJ": "",
+                                "DbId": "0",
+                                "Nota": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "Thesaurus_descritor_eq": "",
+                                "DataAssinatura": "1900-01-01",
+                                "Thesaurus_descritor_np": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "WhenSearchable": "",
+                                "Id": "",
+                                "Fragmentado": false,
+                                "Title": "",
+                                "Ordem": "0",
+                                "ConteudoTitle": "",
+                                "ClassName": "",
+                                "NumeroDR": "",
+                                "DataEntradaVigor": "1900-01-01T00:00:00",
+                                "PaginaInicial": "0",
+                                "Acronimo": "",
+                                "TextoAssociacao": "",
+                                "Serie": "",
+                                "CreationDate": "1900-01-01T00:00:00",
+                                "Descritor_texto": "",
+                                "ResumoAJ": "",
+                                "Sumario": "",
+                                "Regional": false,
+                                "Views": "0",
+                                "Fonte": "",
+                                "Tipo": "",
+                                "ModificationDate": "1900-01-01T00:00:00",
+                                "Thesaurus_descritor": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "EmissorEN": "",
+                                "Parte": "",
+                                "TipoEN": "",
+                                "TextoNota": "",
+                                "resumo": "",
+                                "resumoEN": "",
+                                "Designacao": "",
+                                "ConsolidacaoType": "",
+                                "DiplomaBase": "",
+                                "concelho": "",
+                                "empresa": "",
+                                "assunto": "",
+                                "consolidacaoEstado": "",
+                                "IsSelected": false,
+                                "DiplomaFragmentadoId": "",
+                                "consolidacaoVisibility": "",
+                                "CPAlteracao": false,
+                                "EntidadeProponente": ""
+                            },
+                            "Highlight": {
+                                "Title": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "Sumario": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "Designacao": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "Texto": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                }
+                            }
+                        }
+                    }
+                },
+                "aggregations": {
+                    "SerieAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "TipoAtoAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "TipoConteudoAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "EntidadeEmitenteAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "EntidadeProponenteAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "EntidadePrincipalAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "TipoConteudoAggOutros": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "EmissorAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "ParteAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "CalendarioAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "JurisprudenciaAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "JurisAggs": {
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "VigenciaAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "ConsolidacaoEstadoAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "ConsolidacaoVisibilityAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    }
+                }
+            },
+            "OSFormatedElasticResults": {
+                "Took": "0",
+                "Timed_out": false,
+                "shards": {
+                    "Total": "0",
+                    "Successful": "0",
+                    "Skipped": "0",
+                    "Failed": "0"
+                },
+                "Hits": {
+                    "Total": {
+                        "Value": "0",
+                        "Relation": ""
+                    },
+                    "Max_score": "0",
+                    "Hits": {
+                        "List": [],
+                        "EmptyListItem": {
+                            "index": "",
+                            "type": "",
+                            "id": "",
+                            "score": "0",
+                            "source": {
+                                "NumeroInt": "0",
+                                "DataPublicacaoAJ": "1900-01-01",
+                                "DocType": "",
+                                "Visibility": "",
+                                "Conteudo": false,
+                                "Vigencia": "",
+                                "Title_bst_10k": "",
+                                "TextoEntradaVigor": "",
+                                "Type": "",
+                                "TipoAssociacao": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "NumeroFonte": "",
+                                "Descritor": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "Emissor": "",
+                                "Ano": "",
+                                "Paginas": "",
+                                "TipoAJ": "",
+                                "SerieNR": "",
+                                "Suplemento": "",
+                                "OrdemDR": "",
+                                "Texto": "",
+                                "ConteudoId": "0",
+                                "EntidadePrincipal": "",
+                                "DataPublicacao": "1900-01-01",
+                                "EntidadeEmitente": "",
+                                "DataDistribuicao": "1900-01-01",
+                                "PaginaFinal": "0",
+                                "Numero": "",
+                                "FileId": "0",
+                                "AjPublica": false,
+                                "TipoConteudo": "",
+                                "Tratamento": false,
+                                "EntidadeResponsavel": "",
+                                "NumeroAJ": "",
+                                "DbId": "0",
+                                "Nota": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "Thesaurus_descritor_eq": "",
+                                "DataAssinatura": "1900-01-01",
+                                "Thesaurus_descritor_np": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "WhenSearchable": "",
+                                "Id": "",
+                                "Fragmentado": false,
+                                "Title": "",
+                                "Ordem": "0",
+                                "ConteudoTitle": "",
+                                "ClassName": "",
+                                "NumeroDR": "",
+                                "DataEntradaVigor": "1900-01-01T00:00:00",
+                                "PaginaInicial": "0",
+                                "Acronimo": "",
+                                "TextoAssociacao": "",
+                                "Serie": "",
+                                "CreationDate": "1900-01-01T00:00:00",
+                                "Descritor_texto": "",
+                                "ResumoAJ": "",
+                                "Sumario": "",
+                                "Regional": false,
+                                "Views": "0",
+                                "Fonte": "",
+                                "Tipo": "",
+                                "ModificationDate": "1900-01-01T00:00:00",
+                                "Thesaurus_descritor": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "EmissorEN": "",
+                                "Parte": "",
+                                "TipoEN": "",
+                                "TextoNota": "",
+                                "resumo": "",
+                                "resumoEN": "",
+                                "Designacao": "",
+                                "ConsolidacaoType": "",
+                                "DiplomaBase": "",
+                                "concelho": "",
+                                "empresa": "",
+                                "assunto": "",
+                                "consolidacaoEstado": "",
+                                "IsSelected": false,
+                                "DiplomaFragmentadoId": "",
+                                "consolidacaoVisibility": "",
+                                "CPAlteracao": false,
+                                "EntidadeProponente": ""
+                            },
+                            "Highlight": {
+                                "Title": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "Sumario": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "Designacao": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                },
+                                "Texto": {
+                                    "List": [],
+                                    "EmptyListItem": ""
+                                }
+                            }
+                        }
+                    }
+                },
+                "aggregations": {
+                    "SerieAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "TipoAtoAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "TipoConteudoAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "EntidadeEmitenteAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "EntidadeProponenteAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "EntidadePrincipalAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "TipoConteudoAggOutros": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "EmissorAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "ParteAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "CalendarioAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "JurisprudenciaAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "JurisAggs": {
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "VigenciaAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "ConsolidacaoEstadoAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    },
+                    "ConsolidacaoVisibilityAgg": {
+                        "doc_count_error_upper_bound": "0",
+                        "sum_other_doc_count": "0",
+                        "buckets": {
+                            "List": [],
+                            "EmptyListItem": {
+                                "key": "",
+                                "doc_count": "0",
+                                "key_as_string": "",
+                                "isActive": false
+                            }
+                        }
+                    }
+                }
+            },
+            "HasProponenteToSort": false,
+            "HasEmissorToSort": false,
+            "GetCookiePesquisas": {
+                "Pesquisas": {
+                    "Avancada": "%7B%22PesquisaAvancadaFiltros%22%3A%22eyJ0aXBvQ29udGV1ZG8iOlsiQXRvc1NlcmllMSIsIkF0b3NTZXJpZTIiXSwic2VyaWUiOlsiSSIsIklJIl0sInRpcG8iOlsiXCJMZWlcIiIsIlwiRGVjcmV0b1wiIiwiXCJEZWNyZXRvLUxlaVwiIl0sImVtaXNzb3IiOltdLCJzdW1hcmlvIjoiXCInQmFzZXMgZG8gQ2xpbWFcIiIsImVudGlkYWRlUHJvcG9uZW50ZSI6W10sImVudGlkYWRlUHJpbmNpcGFsIjpbXSwiZW50aWRhZGVFbWl0ZW50ZSI6W10sIkRlc2NyaXRvckxpc3QiOltdfQ%3D%3D%22%2C%22PesquisaAvancadaBools%22%3A%22%7B%5C%22Atos1%5C%22%3Atrue%2C%5C%22Atos2%5C%22%3Atrue%7D%22%7D",
+                    "EmissoresJurisprudencia": "%7b%22PesquisaSimplesFiltro%22%3a%22pol%c3%adtica+de+ambiente%22%7d",
+                    "Simples": "%7b%22PesquisaSimplesFiltro%22%3a%22pol%c3%adtica+de+ambiente%22%7d",
+                    "Sort": ""
+                },
+                "History": {
+                    "List": [],
+                    "EmptyListItem": {
+                        "SearchHistory": {
+                            "Id": 0,
+                            "Cookie": "",
+                            "NextId": 0,
+                            "PreviousId": 0
+                        }
+                    }
+                },
+                "TipoOrdenacaoID2": "",
+                "EditPesquisaAvancada2": 1,
+                "TermoPesquisaAvancadaByConteudo2": "",
+                "DataFetchStatus": 1
+            }
+        }
+    },
+    "clientVariables": {
+        "NewUser": "https://diariodarepublica.pt/dr/utilizador/registar",
+        "PesquisaAvancada": "https://diariodarepublica.pt/dr/pesquisa-avancada",
+        "Login": "https://diariodarepublica.pt/dr/utilizador/entrar",
+        "Data": "2025-07-31",
+        "DicionarioJuridicoId": "0",
+        "FullHTMLURL_EN": "https://diariodarepublica.pt/dr/en",
+        "ShowResult": false,
+        "StartIndex": 0,
+        "EntityId_Filter": 0,
+        "BookId_Filter": 0,
+        "DiarioRepublicaId": "",
+        "paginaJson": "",
+        "Serie": true,
+        "DiplomaConteudoId": "",
+        "Pesquisa": "",
+        "CookiePath": "/dr/",
+        "DataInicial_Filter": "1900-01-01",
+        "Query_Filter": "",
+        "UtilizadorPortalId": "0",
+        "t": "",
+        "Session_GUID": "497622e4-99f1-43e9-8096-e0c97baf6cc2",
+        "DateTime": "2025-07-31T07:58:56.514Z",
+        "ActoLegislativoId_Filter": 0,
+        "FullHTMLURL": "https://diariodarepublica.pt/dr/home",
+        "TipoDeUtilizador": "",
+        "DataFinal_Filter": "1900-01-01",
+        "GUID": "",
+        "IsColecaoLegislacaoFilter": true
+    }
+}
