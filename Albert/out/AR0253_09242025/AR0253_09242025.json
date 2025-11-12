@@ -1,0 +1,654 @@
+{
+    "UniqueIdentity": "AR0253",
+    "region": "Latin America",
+    "Jurisdiction": "BR",
+    "category": "Controlled Drugs & Precursors",
+    "title": "Brazil. Narcotics Subject to Control (ANVISA Ordinance No. 344/98, Annex I, Lists A1 & A2, lasted updated by RDC 244 of 27 November of 2023)",
+    "casKey": null,
+    "dateAndTime": "2025-09-24 14:20:49",
+    "errors": [],
+    "data": [
+        {
+            "Lista": "A1",
+            "Número(Number)": "1",
+            "Nome_da_substância(Substance_Name)": "Acetilmetadol",
+            "sha_hash": "d94549a8c78fe4d783b20b02b37d4ac58833a04d4e230a1917ef9afc8ab7c393"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "2",
+            "Nome_da_substância(Substance_Name)": "Alfacetilmetadol",
+            "sha_hash": "494b58d96b11d281d21f16335dd035cfd5dd4a093ca72204dffe649f10bc2042"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "3",
+            "Nome_da_substância(Substance_Name)": "Alfameprodina",
+            "sha_hash": "8deff1bd25206724320e6eb342f8f8c1068a44354f3888cbe769044d6e94fd0a"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "4",
+            "Nome_da_substância(Substance_Name)": "Alfametadol",
+            "sha_hash": "8157395ba2d3ae30b6d237d23bf146e85f61771da515ad774585107a4b1b0a78"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "5",
+            "Nome_da_substância(Substance_Name)": "Alfaprodina",
+            "sha_hash": "51225b8fb419cd8a16857cba200a28f58e35b89bd8fec3c156d58ecaa43cb8a7"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "6",
+            "Nome_da_substância(Substance_Name)": "Alfentanila",
+            "sha_hash": "a65d0a79d865cba7121c8b4e3a4065f0f01de80221260996f510dfb755199540"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "7",
+            "Nome_da_substância(Substance_Name)": "Alilprodina",
+            "sha_hash": "72a09152ea272b23c34d7f4550d0f1c83be6da4e26a05bef9d70e0312f552139"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "8",
+            "Nome_da_substância(Substance_Name)": "Anileridina",
+            "sha_hash": "24bc1da756dc3683439425e8a4a726bb1b51fa37672125b7a3ba5d7a7aab8522"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "9",
+            "Nome_da_substância(Substance_Name)": "Bezitramida",
+            "sha_hash": "e1e790b5c65222f38aa9e5cecc7ab707a9d03ce6b36cc509345f2e5a8e4e5f25"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "10",
+            "Nome_da_substância(Substance_Name)": "Benzetidina",
+            "sha_hash": "65a083ba17f2bd0f5145a6dad495de5748b77e8c967f1dd139052b271965d16a"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "11",
+            "Nome_da_substância(Substance_Name)": "Benzilmorfina",
+            "sha_hash": "18cd2b186e44b5f2d6534e4daded31b559e62a81585caa02e9107af1fa829c67"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "12",
+            "Nome_da_substância(Substance_Name)": "Benzoilmorfina",
+            "sha_hash": "687e0d7b538ee139e5c0e0b877d09563917452516515be1d9ffc7908f696f0ec"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "13",
+            "Nome_da_substância(Substance_Name)": "Betacetilmetadol",
+            "sha_hash": "dd415097a7ddd9fab1465d14866a7b5bb6965fa76d4b5520adb5d30cc131e11c"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "14",
+            "Nome_da_substância(Substance_Name)": "Betameprodina",
+            "sha_hash": "003599efda0b862030f36df054196d8e956adc3f64f7ac4173b9cb2df55a1a29"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "15",
+            "Nome_da_substância(Substance_Name)": "Betametadol",
+            "sha_hash": "3abd7fef203e0b5140941146976dd43a04f49a171b877b3ffa83b1d6591fe5f4"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "16",
+            "Nome_da_substância(Substance_Name)": "Betaprodina",
+            "sha_hash": "d4e3939009fcdc7e52e7262095aac176d3061e171ee97143b1a2838391e343c2"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "17",
+            "Nome_da_substância(Substance_Name)": "Buprenorfina",
+            "sha_hash": "c65e2dbae9a29c800ee7d7e0c9ae41917f6ffa01a83d233a1c11d9d800098486"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "18",
+            "Nome_da_substância(Substance_Name)": "Butorfanol",
+            "sha_hash": "1c19569dbf4b6c467955f39c6cd54713f7d675cc0a62fe531dabbc6bc6f831fd"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "19",
+            "Nome_da_substância(Substance_Name)": "Clonitazeno",
+            "sha_hash": "5720abc28bee6ad0469ba92415a55860839460cda9ab1483402084b1c578e743"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "20",
+            "Nome_da_substância(Substance_Name)": "Codoxima",
+            "sha_hash": "cadf3091f3aea8977f15204087031941cff95b1148c1bf9c297883d34355c865"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "21",
+            "Nome_da_substância(Substance_Name)": "Concentrado de palha de dormideira",
+            "sha_hash": "8e9a4205cd4b719b47d7d2b9e447e09d16bf47981558b3a2d0bbf7ce0b03fe68"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "22",
+            "Nome_da_substância(Substance_Name)": "Dextromoramida",
+            "sha_hash": "00933471cd03660f9c031a89c6f567d4a93cb33f8693b8dd590d2de32189f2a5"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "23",
+            "Nome_da_substância(Substance_Name)": "Diampromida",
+            "sha_hash": "448126ac83e90198099ecd993afd55c81c2f8a9657456ff9419ad2b38b517e14"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "24",
+            "Nome_da_substância(Substance_Name)": "Dietiltiambuteno",
+            "sha_hash": "fcaf1de2116290e77c81020c6226cd1d383650d9cbb115feb68d3c52cddba77e"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "25",
+            "Nome_da_substância(Substance_Name)": "Difenoxilato",
+            "sha_hash": "4eba11fc07e1722472a99786695488e7362e9a404e5dabab44dce649a1f09dd8"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "26",
+            "Nome_da_substância(Substance_Name)": "Difenoxina",
+            "sha_hash": "26330e4552c44057550fc756248401772634e6a6f34dc725c39ebb6a493c4020"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "27",
+            "Nome_da_substância(Substance_Name)": "Diidromorfina",
+            "sha_hash": "2d38ce673447f90499b8f1d400ee282f4e251b9b310ee89dd476d6f54d42d36c"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "28",
+            "Nome_da_substância(Substance_Name)": "Dimefeptanol (metadol)",
+            "sha_hash": "02f0fa1236f438107daaae1a28ec6f3fadd4548e69de065a0ceaf7cc0b0ed781"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "29",
+            "Nome_da_substância(Substance_Name)": "Dimenoxadol",
+            "sha_hash": "e54c99c360089b67984024bd273fce9c64149cd8197ad8630068054c2b4145f0"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "30",
+            "Nome_da_substância(Substance_Name)": "Dimetiltiambuteno",
+            "sha_hash": "e642e42e83cee2ced6c4b902ccb12e37439f1785fa20b9a995b99be5fd4029cd"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "31",
+            "Nome_da_substância(Substance_Name)": "Dioxafetila",
+            "sha_hash": "61da5c8ef8ec2a22a7027b32676662dc907617d737080902feec1c7904644ae0"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "32",
+            "Nome_da_substância(Substance_Name)": "Dipipanona",
+            "sha_hash": "1e8c592f9d547afe41f49279a53b2d620ab730620051d157140e1aee69bf16af"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "33",
+            "Nome_da_substância(Substance_Name)": "Drotebanol",
+            "sha_hash": "24d91aed632a665d88f66f1b686813252b7d5477c64322bf2449ea9c9c7d15d3"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "34",
+            "Nome_da_substância(Substance_Name)": "Etilmetiltiambuteno",
+            "sha_hash": "1de7d4de21f81821246e595bfbaaa68d31181d764ce7adc03fce9d2ebc3e2145"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "35",
+            "Nome_da_substância(Substance_Name)": "Etonitazeno",
+            "sha_hash": "559876aa7966ea12c04ac24b89da129c922e6613dfcc67432ea8a0c093e14394"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "36",
+            "Nome_da_substância(Substance_Name)": "Etoxeridina",
+            "sha_hash": "d1c760242286afe904c54845083de733af060a685b6296dd4cf8b25407c6b066"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "37",
+            "Nome_da_substância(Substance_Name)": "Fenadoxona",
+            "sha_hash": "7646242faa08089331cec914347c0b9b7d45e96682257f04c38006239923a517"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "38",
+            "Nome_da_substância(Substance_Name)": "Fenampromida",
+            "sha_hash": "066c864a55891e8fba8459c9a6144fdf66a37cd9617d7fb28978d2f04a9ccf1a"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "39",
+            "Nome_da_substância(Substance_Name)": "Fenazocina",
+            "sha_hash": "2ebafcb643727ed5774c91f1b94753f3c97144dd2ef7f235ae91eecb933f8b13"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "40",
+            "Nome_da_substância(Substance_Name)": "Fenomorfano",
+            "sha_hash": "4ce4254fd9d08e5981eeb6054ddf0dcbc39e0751ec634838acfbeef72667b0e1"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "41",
+            "Nome_da_substância(Substance_Name)": "Fenoperidina",
+            "sha_hash": "7d3ed672b1532de503563e0d99934708d7b0e444c40c6bb4836d4f99d7e8a59b"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "42",
+            "Nome_da_substância(Substance_Name)": "Fentanila",
+            "sha_hash": "92d340593ebbe5b13f3bee62e397ca3ccc11030903cf69b19fd25a91d276f4e6"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "43",
+            "Nome_da_substância(Substance_Name)": "Furetidina",
+            "sha_hash": "068139b7423dd236b096ace91d7b7e966cc6e36f7bb7ddd0a939e49d3bc1f6cb"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "44",
+            "Nome_da_substância(Substance_Name)": "Hidrocodona",
+            "sha_hash": "0214139f127d2311a4160b7a93a2069493fba13965749e7c65f645b65b583fd9"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "45",
+            "Nome_da_substância(Substance_Name)": "Hidromorfinol",
+            "sha_hash": "7c3526074e3ecd77888073f682267ed02cda7ec54b78b8c9afd8f517f2bfa44b"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "46",
+            "Nome_da_substância(Substance_Name)": "Hidromorfona",
+            "sha_hash": "55a482e220d1dfb989781a034be78ca82a4bb3428aa377294acef45c0db4fbcb"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "47",
+            "Nome_da_substância(Substance_Name)": "Hidroxipetidina",
+            "sha_hash": "1493d6f5d3107bb3dedc724e92237f6b4cce6b59ca30f412f50dcba37ecf1129"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "48",
+            "Nome_da_substância(Substance_Name)": "Intermediário da metadona (4-ciano-2-dimetilamina-4,4-difenilbutano)",
+            "sha_hash": "37461a9af95419b503aaf389acefaf43a3f8757e64b50591530dfa0d0c2697a5"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "49",
+            "Nome_da_substância(Substance_Name)": "Intermediário da moramida (ácido 2-metil-3-morfolina-1,1-difenilpropano carboxílico)",
+            "sha_hash": "b67149a790a6c982282014df135f4670cdb7cdf76f0bc241ce4482ade1d0b163"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "50",
+            "Nome_da_substância(Substance_Name)": "Intermediário \"a\" da petidina (4-ciano-1-metil-4-fenilpiperidina)",
+            "sha_hash": "69571c2b8db5cf7c5a5ee24e77bd8d128b8c167ec42621396b907ba32aceed29"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "51",
+            "Nome_da_substância(Substance_Name)": "Intermediário \"b\" da petidina (éster etílico do ácido 4-fenilpiperidina-4-carboxilíco)",
+            "sha_hash": "3c2157b5521c0f44906fc2fb1c24988735bbce13137e8b9e9679dc30ca4fc99e"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "52",
+            "Nome_da_substância(Substance_Name)": "Intermediário \"c\" da petidina (ácido-1-metil-4-fenilpiperidina-4-carboxílico)",
+            "sha_hash": "08beeab9777dcde8f3ca7ed0fdd72a242448b1f3e6e266cd5452f807160b7c0b"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "53",
+            "Nome_da_substância(Substance_Name)": "Isometadona",
+            "sha_hash": "18eb95b232798cc4b4f26309f4410b486284afd4bbd221936eacfb931d434d41"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "54",
+            "Nome_da_substância(Substance_Name)": "Levofenacilmorfano",
+            "sha_hash": "d5c4551a1bf0ca57115b3f3e6c952525d90d84b7c5eb2b0c1a8ea99f39d746a6"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "55",
+            "Nome_da_substância(Substance_Name)": "Levometorfano",
+            "sha_hash": "8dcab62dceecae66f5e8636d8e4282cafdec46abe773c1109830dcf9f50264cc"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "56",
+            "Nome_da_substância(Substance_Name)": "Levomoramida",
+            "sha_hash": "79c91bcfdafe56f85828509c96915beedb23b9d8a60e326d1f36f5c2eda2ac25"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "57",
+            "Nome_da_substância(Substance_Name)": "Levorfanol",
+            "sha_hash": "7e39d45439676b457e37628b00ffa132f685c85748fb24d4cd54ed2e47f29116"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "58",
+            "Nome_da_substância(Substance_Name)": "Metadona",
+            "sha_hash": "d4b114e24a43c0002305f36747720cf933daa2d7566f2cb67d505a460225f187"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "59",
+            "Nome_da_substância(Substance_Name)": "Metazocina",
+            "sha_hash": "b5d9a524bf6fe9ec8ca8aa5fecad392c491008a4f4a820c6737ba404a88e3366"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "60",
+            "Nome_da_substância(Substance_Name)": "Metildesorfina",
+            "sha_hash": "1758d828f9520b6c329535a7db74e516d55170ec7e761fe06a5648783a35d7db"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "61",
+            "Nome_da_substância(Substance_Name)": "Metildiidromorfina",
+            "sha_hash": "c13fe863b0c40df7b5bb2678954a2676412fa9fe63dca53fda4468b88bb414f4"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "62",
+            "Nome_da_substância(Substance_Name)": "Metopona",
+            "sha_hash": "307a8719f9b787cd3d7cee97980e2b36d419c571c5c86d3efc267d414b3c8e21"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "63",
+            "Nome_da_substância(Substance_Name)": "Mirofina",
+            "sha_hash": "1bc153df494137b7d8b6fa4fbbcc0c677d028337a119ee542f8b5d54af60f5b2"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "64",
+            "Nome_da_substância(Substance_Name)": "Morferidina",
+            "sha_hash": "b5b33187233d864cd3c388948e9b0ff54b455793db4e2563bfb07309bf01c920"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "65",
+            "Nome_da_substância(Substance_Name)": "Morfina",
+            "sha_hash": "0bc973870f517de1c761d0a3e0b118d3b461605ae4eb2883e4821c9f51d60793"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "66",
+            "Nome_da_substância(Substance_Name)": "Morinamida",
+            "sha_hash": "35634ead5df72c1ba0403c15b7b5a75770e496f4dabe920f20536487c20c9784"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "67",
+            "Nome_da_substância(Substance_Name)": "Nicomorfina",
+            "sha_hash": "ab3a72dbbb983c9f80a53aae6146da6094d53f665e03445560301ce1187041db"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "68",
+            "Nome_da_substância(Substance_Name)": "Noracimetadol",
+            "sha_hash": "011b47f33c5000ee4d43466f82458607e8b2d8221dc9c7be92a874fcfaa07b38"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "69",
+            "Nome_da_substância(Substance_Name)": "Norlevorfanol",
+            "sha_hash": "c9275249a97378a0eedc729fdd2faf6ae55efca3d3ee6fbbb3c02ffc8faf47ff"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "70",
+            "Nome_da_substância(Substance_Name)": "Normetadona",
+            "sha_hash": "f1c5b10bef6569f1c4dbf42f15289e6f66bf203e31d27d056d4ee8ad2ccc0e4b"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "71",
+            "Nome_da_substância(Substance_Name)": "Normorfina",
+            "sha_hash": "0413baca8a8a5e8b62d4ed1a32b28a69575592ba7cf9ea2aaf64589e2d9be300"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "72",
+            "Nome_da_substância(Substance_Name)": "Norpipanona",
+            "sha_hash": "cd82cfabab0e6b51d9f1bcff84e4a9cd6ee3e011a3dc306af364dfe953fbee69"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "73",
+            "Nome_da_substância(Substance_Name)": "N-oxicodeína",
+            "sha_hash": "a5e0e2afe2ba9d4128e44f2428dfd540fecdd523b6418ee37fcd16afef04fbbe"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "74",
+            "Nome_da_substância(Substance_Name)": "N-oximorfina",
+            "sha_hash": "0d6800036e2cd832b9447ee3fc02439c34c4bfd0646d784fe6b4319ee8e274ef"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "75",
+            "Nome_da_substância(Substance_Name)": "Ópio",
+            "sha_hash": "d2193acc7cb7aeb7aa81cc8a6462f32655a3169a1b3013279897ce181fbb0a25"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "76",
+            "Nome_da_substância(Substance_Name)": "Oripavina",
+            "sha_hash": "6fe23f86f9e353d28464226203077705c399be8ffbc9f4433eb93426c49bcd9f"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "77",
+            "Nome_da_substância(Substance_Name)": "Oxicodona",
+            "sha_hash": "d0adc2bec609c18d7c5ebda9aeb872e2a54601760d59fb3566ac5660987dc15a"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "78",
+            "Nome_da_substância(Substance_Name)": "Oximorfona",
+            "sha_hash": "b3b5a3c39d3019ff809c08fb908d16a9d899e1736999a40cf811164b43c82b69"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "79",
+            "Nome_da_substância(Substance_Name)": "Petidina",
+            "sha_hash": "d5f4382fa2fb478590b8f919e11120d7ec239d55213c3758354da169e7d3f1e5"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "80",
+            "Nome_da_substância(Substance_Name)": "Piminodina",
+            "sha_hash": "f0759b5d42fabea5072b1fecbff8c36e6ae21ca7ced512b766a4a206a39fcd1b"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "81",
+            "Nome_da_substância(Substance_Name)": "Piritramida",
+            "sha_hash": "55360eec83f164bb419817577681ed9f6df7728943045b52f47245db2758af31"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "82",
+            "Nome_da_substância(Substance_Name)": "Proeptazina",
+            "sha_hash": "7cba2d9be6856b0d9bd5defccc87e9887bfbb00b6d919ba9f6cef023ce1bd930"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "83",
+            "Nome_da_substância(Substance_Name)": "Properidina",
+            "sha_hash": "d60209977758112203b620a9aeaef377c13015fc2f45d2aef3127d6ea618430d"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "84",
+            "Nome_da_substância(Substance_Name)": "Racemetorfano",
+            "sha_hash": "edce9a09b62bd190a03d8cf34779440f3bf9c44dbe42fc277ebce13ecfe21b9f"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "85",
+            "Nome_da_substância(Substance_Name)": "Racemoramida",
+            "sha_hash": "ef549ce0d7bf619bdde708e57a05d30f9c167092434ad0783a546262223c3538"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "86",
+            "Nome_da_substância(Substance_Name)": "Racemorfano",
+            "sha_hash": "67421575931a40703b026a7ab9e92009c0d8e95c4984a6605aa63f3dc4eb750e"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "87",
+            "Nome_da_substância(Substance_Name)": "Remifentanila",
+            "sha_hash": "349c4bd1e9004ed3b1f46411bdea1b584c03361b3f90f2816f8b561e6f7369be"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "88",
+            "Nome_da_substância(Substance_Name)": "Sufentanila",
+            "sha_hash": "2d97352d3c1a490a8441460e16131b3e595b48b92a356ef4d4c10aa64c9ecd71"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "89",
+            "Nome_da_substância(Substance_Name)": "Tapentadol",
+            "sha_hash": "23029d0c993e7f4180f368456705253134f30e3b6999ed6a1d318e33ca4478c0"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "90",
+            "Nome_da_substância(Substance_Name)": "Tebacona",
+            "sha_hash": "3589008f05e7a9d2994a4be1d171e3ec3eda99e1eb660aeb858a364e37cf1864"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "91",
+            "Nome_da_substância(Substance_Name)": "Tebaína",
+            "sha_hash": "e14a995e93be32fa805e7d6a60c5d7575a76ed96b9acddeacfd4fc663d175adb"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "92",
+            "Nome_da_substância(Substance_Name)": "Tilidina",
+            "sha_hash": "15c5271e1a81b156c8ff7b80b90f13fd45f1e508a3ea5a46394423c13900f987"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "93",
+            "Nome_da_substância(Substance_Name)": "Trimeperidina",
+            "sha_hash": "c14837e4d23f6d28c110b31e37efc1068d5a2416b065a2d7bddf64061c8460c6"
+        },
+        {
+            "Lista": "A1",
+            "Número(Number)": "94",
+            "Nome_da_substância(Substance_Name)": "Viminol",
+            "sha_hash": "858ae75275795693b03b68da2233c25cf7f76664bcd2000be97d2b92c4dd9f73"
+        },
+        {
+            "Lista": "A2",
+            "Número(Number)": "1",
+            "Nome_da_substância(Substance_Name)": "Acetildiidrocodeina",
+            "sha_hash": "6bbbded3e95b491be5f9f9fe3e2db15c51705e96aeac5e52c0ee229409539749"
+        },
+        {
+            "Lista": "A2",
+            "Número(Number)": "2",
+            "Nome_da_substância(Substance_Name)": "Codeína",
+            "sha_hash": "c2072049c2040dc9daef4543a6e796c228ef9779f231eb9f2916f8d44ac3c4a7"
+        },
+        {
+            "Lista": "A2",
+            "Número(Number)": "3",
+            "Nome_da_substância(Substance_Name)": "Dextropropoxifeno",
+            "sha_hash": "cf98f7f91f25467e71442de9e047bac26f80d02ab6371dd00bea1fe02d5f1cb8"
+        },
+        {
+            "Lista": "A2",
+            "Número(Number)": "4",
+            "Nome_da_substância(Substance_Name)": "Diidrocodeína",
+            "sha_hash": "cc3cc5fcaa03ef4f3ceae05dccd4ef7c675890e69ae2ce750427485c6ef243bc"
+        },
+        {
+            "Lista": "A2",
+            "Número(Number)": "5",
+            "Nome_da_substância(Substance_Name)": "Etilmorfina",
+            "sha_hash": "8c920b015484df0f6a0533be7ddc20f71f633eb42467715b45f7cf496f21dfb5"
+        },
+        {
+            "Lista": "A2",
+            "Número(Number)": "6",
+            "Nome_da_substância(Substance_Name)": "Folcodina",
+            "sha_hash": "30b27b3475e67354bc737613fb4ec4e9a96df8c3218445382f1050336e37d3fb"
+        },
+        {
+            "Lista": "A2",
+            "Número(Number)": "7",
+            "Nome_da_substância(Substance_Name)": "Nalbufina",
+            "sha_hash": "a4eaae171f96c8c00952d23f85346d3aede53feb45062a780afb50ef4f3136e7"
+        },
+        {
+            "Lista": "A2",
+            "Número(Number)": "8",
+            "Nome_da_substância(Substance_Name)": "Nalorfina",
+            "sha_hash": "396b4292ec5dd3f2ee64bf4fb392288a81191edf3c93343ab730af1fd505b3f2"
+        },
+        {
+            "Lista": "A2",
+            "Número(Number)": "9",
+            "Nome_da_substância(Substance_Name)": "Nicocodina",
+            "sha_hash": "61444591bf5551945c74cb1fd795543b11576c55540f94283e107960f3eae05c"
+        },
+        {
+            "Lista": "A2",
+            "Número(Number)": "10",
+            "Nome_da_substância(Substance_Name)": "Nicodicodina",
+            "sha_hash": "5436a67428065d8f19093449821956231527d6ccb21193537ab27a40963dea5f"
+        },
+        {
+            "Lista": "A2",
+            "Número(Number)": "11",
+            "Nome_da_substância(Substance_Name)": "Norcodeína",
+            "sha_hash": "becff45e6854082e3287cb0cbb7f5e681a2b93e8b29d30e3718911518bab28f6"
+        },
+        {
+            "Lista": "A2",
+            "Número(Number)": "12",
+            "Nome_da_substância(Substance_Name)": "Propiram",
+            "sha_hash": "9ad6080a6784e65eddf9357c59e46657150b8ece912199cf3007b91993985afa"
+        },
+        {
+            "Lista": "A2",
+            "Número(Number)": "13",
+            "Nome_da_substância(Substance_Name)": "Tramadol",
+            "sha_hash": "37c469db55a3c0004751f9fece044e259b821f6e1e379549e5cff3118fecaec2"
+        }
+    ]
+}
