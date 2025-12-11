@@ -1,4 +1,5 @@
 import requests
+import cloudscraper
 from bs4 import BeautifulSoup
 import time
 import warnings
@@ -27,7 +28,9 @@ class WebScraper:
         }
         self.timeout = timeout
         self.session = requests.Session()
+        self.cloud_session = cloudscraper.create_scraper()
         self.session.headers.update(self.headers)
+        self.cloud_session.headers.update(self.headers)
         self.verify = True
 
     def _handle_response(self,response):
@@ -61,6 +64,38 @@ class WebScraper:
         for attempt in range(1, max_retries + 1):
             try:
                 response = self.session.post(url,data=data,json=json,headers=headers,timeout=timeout,verify=verify)
+                response.raise_for_status()
+                return self._handle_response(response)
+            except Exception as e:
+                print(f"Attempt {attempt} failed: {e}")
+                if attempt == max_retries:
+                    raise Exception(f"Failed to POST {url} after {max_retries} attempts")
+                time.sleep(delay)
+
+    def get_cloudscraper_soup(self, url, headers=None,timeout=None,verify=None, max_retries=10, delay=3):
+        headers = self.headers if headers is None else headers
+        timeout = self.timeout if timeout is None else timeout
+        verify = self.verify if verify is None else verify
+
+        for attempt in range(1, max_retries + 1):
+            try:
+                response = self.cloud_session.get(url, headers=headers,timeout=timeout,verify=verify)
+                response.raise_for_status()
+                return self._handle_response(response)
+            except Exception as e:
+                print(f"Attempt {attempt} failed: {e}")
+                if attempt == max_retries:
+                    raise Exception(f"Failed to GET {url} after {max_retries} attempts")
+                time.sleep(delay)
+
+    def post_cloudscraper_soup(self, url, data=None, json=None, headers=None, timeout=None, verify=None, max_retries=10, delay=3):
+        headers = self.headers if headers is None else headers
+        timeout = self.timeout if timeout is None else timeout
+        verify = self.verify if verify is None else verify
+
+        for attempt in range(1, max_retries + 1):
+            try:
+                response = self.cloud_session.post(url,data=data,json=json,headers=headers,timeout=timeout,verify=verify)
                 response.raise_for_status()
                 return self._handle_response(response)
             except Exception as e:
