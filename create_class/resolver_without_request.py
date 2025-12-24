@@ -1,4 +1,4 @@
-from cloud_bypass import WebCloudScraper
+from bypass_without_request import WebCloudScraper
 scraper = WebCloudScraper()
 
 def session_update_with_cookie(url):
